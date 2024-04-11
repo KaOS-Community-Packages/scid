@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Scid
+Comment=A Free Chess Database Application
+Exec=scid %F
+Icon=/usr/share/scid/scid.ico
+Terminal=false
+StartupNotify=false
+Categories=Game;
+MimeType=application/x-chess-pgn
+Icon=/usr/share/scid/scid.ico
