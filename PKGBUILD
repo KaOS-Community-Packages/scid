@@ -10,7 +10,7 @@ depends=('tk')
 source=("https://github.com/benini/scid/archive/refs/tags/v${pkgver}.tar.gz"
         'scid.desktop')
 sha256sums=('54b1b3c66810d806464966cafd73f0afa2aa39bd2e17549ebf1d12f659e46301'
-            '85fad4977ebe7992163be9d98a5d6ddfb0cf5a69a91c6f8e1ee712c49e9a0ee4')
+            '1b3ae62ffb913db5501d0459928457a08541c4a1c174d68eae317d35a103c165')
 
 
 build() {
